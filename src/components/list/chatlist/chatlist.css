@@ -1,6 +1,9 @@
 .chatlist{
   flex:1;
   overflow: scroll ;
+  scrollbar-width: none; /* Remove scrollbar space */
+  border-right: 1px solid #dddddd35;
+
 
 
 .search{
